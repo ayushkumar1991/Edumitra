@@ -30,7 +30,7 @@
     "firebase": "^11.4.0",
     "framer-motion": "^12.4.11",
     "lucide-react": "^0.475.0",
-    "next": "15.2.4",
+    "next": "15.2.8",
     "peer": "^1.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
